@@ -27,7 +27,7 @@ Uses the [apidoc](https://github.com/apidoc/apidoc) library.
 Install with [npm](https://npmjs.org/package/gulp-apidoc)
 
 ```
-npm install --save-dev gulp-apidoc
+npm install --save-dev gapidoc
 ```
 
 
