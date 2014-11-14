@@ -1,7 +1,7 @@
 {
   "name": "gapidoc",
-  "version": "0.0.4",
-  "description": " RESTful web API Documentation Generator by cobaimelan",
+  "version": "0.0.5",
+  "description": " RESTful web API Documentation Generator by cobaimelan, updated by techgaun",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
