@@ -14,7 +14,7 @@ module.exports ={
 
 		var countFiles = apidoc(options);	
 
-			if(typeof countFiles === "number"){
+			if(typeof countFiles === "true"){
 				gutil.log('gulp-apidoc:', gutil.colors.green(countFiles) + gutil.colors.gray(' file by reading the file was created '));
 				
 			}else{
