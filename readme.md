@@ -6,6 +6,8 @@
 
 Uses the [apidoc](https://github.com/apidoc/apidoc) library.
 
+Is a fork of original gulp-apidoc because this was very urgent
+
 ## How It Works
 `/path/api/stuff.js`:
 ```js
@@ -24,7 +26,7 @@ Uses the [apidoc](https://github.com/apidoc/apidoc) library.
 
 ## Install
 
-Install with [npm](https://npmjs.org/package/gulp-apidoc)
+Install with [npm](https://npmjs.org/package/gapidoc)
 
 ```
 npm install --save-dev gapidoc
