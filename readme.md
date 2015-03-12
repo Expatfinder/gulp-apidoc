@@ -37,7 +37,7 @@ npm install --save-dev gapidoc
 
 ```js
 var gulp = require('gulp'),
-    apidoc = require('gulp-apidoc');
+    apidoc = require('gapidoc');
 
 gulp.task('apidoc', function(){
           apidoc.exec({
@@ -51,7 +51,7 @@ With options:
 
 ```js
 var gulp = require('gulp'),
-    apidoc = require('gulp-apidoc');
+    apidoc = require('gapidoc');
 
 gulp.task('apidoc',function(){
               apidoc.exec({
