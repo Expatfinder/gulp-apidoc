@@ -1,14 +1,14 @@
 {
   "name": "gapidoc",
-  "version": "0.1.0",
-  "description": " RESTful web API Documentation Generator by cobaimelan, updated by techgaun",
+  "version": "1.0.0",
+  "description": " RESTful web API Documentation Generator by cobaimelan, created by techgaun, forked and dev by thinh nguyen",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/techgaun/gulp-apidoc"
+    "url": "git://github.com/expatfinder/gulp-apidoc"
   },
   "keywords": [
     "gulpplugin",
@@ -17,18 +17,18 @@
     "rest",
     "doc"
   ],
-  "author": "Ayhan Kuru",
+  "author": "Thinh NGUYEN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/techgaun/gulp-apidoc/issues"
+    "url": "https://github.com/expatfinder/gulp-apidoc/issues"
   },
-  "homepage": "https://github.com/techgaun/gulp-apidoc",
+  "homepage": "https://github.com/expatfinder/gulp-apidoc",
   "dependencies": {
     "apidoc": "^0.7.2",
-    "gulp-util": "^3.0.0"
+    "color-log": "0.0.2"
   },
   "devDependencies": {
     "mocha": "*",
-    "gulp": "~3.5.1"
+    "gulp": "^4.0.2"
   }
 }
